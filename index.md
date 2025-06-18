@@ -1,6 +1,6 @@
 # Puantaj Uygulaması Gizlilik Politikası
 
-Son güncellenme: [Tarih]
+Son güncellenme: [18.06.2025]
 
 ## 1. Genel Bakış
 
@@ -50,6 +50,15 @@ Gizlilik politikası ile ilgili sorularınız için:
 - E-posta: abdullahuzun@hotmail.com
 
 
-## 7. Değişiklikler
+## 7. Programın Kullanımı
+- Programda yönetici ve çalışan olarak iki adet kullanıcı rolü bulunmaktadır.
+- Yönetici Programa girmek için hesap oluşturur, İş Yeri ekler, çalışan ekler
+- Çalışanda; aynı programı marketten yükler, yöneticinin vermiş olduğu telefon numarasını "çalışan girişinden" girerek sisteme giriş yapar.
+- Çalışan konumu eklenen iş yerinin 100 metre yakınındaysa işe başlama butonu aktif olur. Şu an için aynı telefondan, tanımlı farklı tel. numaralarıyla giriş mümkündür. Kullanıcılara güven esas olarak alınmıştır.
+- Program konum esaslı çalıştığından açık alandayken kullanılması doğru çalışması için yeterlidir.
+- Program kullanımı sırasında veri kayıplarının olması mümkün olabilmektedir. Bu nedenle kontrollü kullanılması ve puantaj alımı sırasındaa öncelikli olarak yasal zorunlulukların yerine getirilmesi önemlidir.
+- Program sadece anlık verilerin görülmesi için geliştirilmiş olup, geliştirilme süreci devam etmektedir.
+  
+## 8. Değişiklikler
 
 Bu gizlilik politikası gerektiğinde güncellenebilir. Önemli değişiklikler durumunda kullanıcılarımız bilgilendirilecektir.
