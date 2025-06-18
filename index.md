@@ -56,7 +56,7 @@ Gizlilik politikası ile ilgili sorularınız için:
 - Çalışanda; aynı programı marketten yükler, yöneticinin vermiş olduğu telefon numarasını "çalışan girişinden" girerek sisteme giriş yapar.
 - Çalışan konumu eklenen iş yerinin 100 metre yakınındaysa işe başlama butonu aktif olur. Şu an için aynı telefondan, tanımlı farklı tel. numaralarıyla giriş mümkündür. Kullanıcılara güven esas olarak alınmıştır.
 - Program konum esaslı çalıştığından açık alandayken kullanılması doğru çalışması için yeterlidir.
-- Program kullanımı sırasında veri kayıplarının olması mümkün olabilmektedir. Bu nedenle kontrollü kullanılması ve puantaj alımı sırasındaa öncelikli olarak yasal zorunlulukların yerine getirilmesi önemlidir.
+- Program kullanımı sırasında veri kayıplarının olması mümkün olabilmektedir. Bu nedenle kontrollü kullanılması ve puantaj alımı sırasında öncelikli olarak yasal zorunlulukların yerine getirilmesi önemlidir.
 - Program sadece anlık verilerin görülmesi için geliştirilmiş olup, geliştirilme süreci devam etmektedir.
   
 ## 8. Değişiklikler
