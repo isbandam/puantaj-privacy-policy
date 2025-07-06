@@ -14,8 +14,8 @@ Puantaj uygulaması ("biz", "bizim" veya "uygulama"), şantiye çalışanların�
 - Şifre (şifrelenmiş format)
 
 ### Konum Verileri
-- Şantiye giriş-çıkış konumları
-- Konum bilgisi sadece giriş-çıkış anında alınır
+- Şantiye giriş konumları
+- Konum bilgisi sadece giriş anında alınır
 - Sürekli konum takibi yapılmaz
 
 ### Çalışma Kayıtları
