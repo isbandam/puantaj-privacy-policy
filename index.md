@@ -35,6 +35,9 @@ Toplanan veriler şu amaçlarla kullanılır:
 - Tüm veriler Firebase altyapısında güvenli şekilde saklanır
 - Veriler şifrelenerek iletilir ve depolanır
 - Sadece yetkili personel verilere erişebilir
+- Yöneticiler kendilerinin ve çalışanların verilerini program arayüzünden silebilir.
+- Çalışan ve yöneticiler dilerse veri silme talebinde bulunabilir.
+- verilerinizi silme talebi iöin abdullahuzun@hotmail.com adresine talep gönderebilir siniz.
 
 ## 5. Kullanıcı Hakları
 
