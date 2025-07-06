@@ -19,7 +19,7 @@ Puantaj uygulaması ("biz", "bizim" veya "uygulama"), şantiye çalışanların�
 - Sürekli konum takibi yapılmaz
 
 ### Çalışma Kayıtları
-- Giriş-çıkış saatleri
+- Giriş saatleri
 - Çalışılan günler
 - Şantiye bilgileri
 
